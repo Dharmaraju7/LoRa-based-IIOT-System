@@ -2,7 +2,7 @@ import xml.etree.ElementTree as lib
 
 
 def GenerateXML(fileName) :
-
+	# hello
 	root = lib.Element("GPS_DATA")
 
 	m1 = lib.Element("staff")
